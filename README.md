@@ -59,6 +59,7 @@ expo start
 A continuación puedes observar que:
 
 - En la terminal aparecerá un codigo QR y varios comando de ayuda. Puedes escanear el QR desde cualquier dispositivo móvil o presionar w para que se abra la web. 
+- Si dispones en tu ordenador de Android-Studio o un emulador de Iphone, puedes utilizar el comando **a** (para android).
 
 Once you have done the previous step, **start the project every time you program**. To do this, run the command:
 
@@ -69,6 +70,7 @@ expo start
 Then you can see that:
 
 - A QR code and several help commands will appear in the terminal. You can scan the QR from any mobile device or press w to open the website. 
+- If you have Android-Studio or an iPhone emulator on your computer, you can use the **a** command (for android).
 
 
 ## Construido con 🛠️ / Built with 🛠️
