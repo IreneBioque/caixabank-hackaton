@@ -1,0 +1,7 @@
+.dashboardSpace {
+display: flex;
+width: 100%;
+}
+.ant-space-item{
+    width: 100%;
+}

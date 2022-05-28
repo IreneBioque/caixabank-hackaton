@@ -1,0 +1,9 @@
+.TransactionCardSpace {
+    display: flex;
+        gap: 10px;
+}
+.ant-card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,5 +1,13 @@
+import { Dashboard } from "./dashboard/Dashboard";
+import { Header } from "./Header";
+
 const MainWeb = () => {
-  return <div>Hola mundo</div>;
+  return (
+    <>
+      <Header />
+      <Dashboard />
+    </>
+  );
 };
 
 export default MainWeb;
