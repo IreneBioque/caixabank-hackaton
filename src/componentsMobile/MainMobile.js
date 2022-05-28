@@ -1,26 +1,23 @@
-import { StyleSheet, View } from "react-native";
+import { Dimensions, StyleSheet, View } from "react-native";
 import AppBar from "./AppBar";
 import CardComponent from "./CardContent";
+import Header from "./Header";
 
-const MainMobile = () => (
-  <View style={styles.imageContainer}>
-    <AppBar />
-    <CardComponent />
-  </View>
-);
+const MainMobile = () => {
+  return (
+    <View style={styles.imageContainer}>
+      <Header />
+      <CardComponent />
+      <AppBar />
+    </View>
+  );
+};
 
 export default MainMobile;
 
 const styles = StyleSheet.create({
-  body: {
-    position: "absolute",
-    left: 0,
-    right: 0,
-    top: 30,
-    backgroundColor: "white",
-    paddingTop: 20,
-  },
   imageContainer: {
     padding: 10,
+    height: "100%",
   },
 });
