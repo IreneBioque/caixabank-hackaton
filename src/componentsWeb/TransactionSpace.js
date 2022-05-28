@@ -1,15 +1,14 @@
-import { Space } from "antd";
 import { ConversionChart } from "./ConversionChart";
-import { TransactionCard } from "./TransactionsCard";
 import "./styles/TransactionSpace.css";
-
+import { TransactionCard } from "./TransactionsCard";
+import { dataPieChart } from "../data/data";
 export const TransactionSpace = () => {
   return (
-    <Space>
+    <div className="SpaceTransaction">
       <div className="TransactionCardSpace">
         <TransactionCard />
       </div>
-      <ConversionChart />
-    </Space>
+      <ConversionChart  />
+    </div>
   );
 };

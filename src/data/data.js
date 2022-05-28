@@ -20,3 +20,7 @@ export const transactions = [
   { transactionNumber: 35, text: "Last month" },
   { transactionNumber: 3, text: "Today" },
 ];
+
+export const dataExpensesChart = [
+  32, 43, 64, 55, 66, 77, 20, 12, 15, 9, 7, 90, 60, 50,
+];

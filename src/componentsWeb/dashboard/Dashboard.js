@@ -5,7 +5,9 @@ import { TransactionSpace } from "../TransactionSpace";
 export const Dashboard = () => {
   return (
     <>
-      <Typography.Title>Dashboard</Typography.Title>
+      <div className="divTitleDashb">
+        <Typography.Text>Dashboard</Typography.Text>
+      </div>
       <Space className="dashboardSpace">
         <TransactionSpace />
         <ExpensesSpace />

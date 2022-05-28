@@ -1,8 +1,3 @@
 .ExpenseChartCard{
     width: 90%;
 }
-.ant-picker-input {
-    display: flex;
-    justify-content: flex-end;
-    margin-left: 50px;
-}

@@ -6,10 +6,19 @@
    justify-content: space-evenly;
 }
 .ant-space-item{
-   height: 100%;
    margin: 0 50px;
-   
 }
 .ant-space-horizontal{
     height: 50%;
+}
+.ChartPie {
+   padding: 30px;
+}
+.CardConversion {
+   border: 1px solid #E5E5E5;
+      border-radius: 10px;
+      width: 100%;
+}
+.ConversionTitle {
+   text-align: start;
 }

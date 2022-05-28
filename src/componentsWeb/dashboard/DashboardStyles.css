@@ -5,3 +5,9 @@ width: 100%;
 .ant-space-item{
     width: 100%;
 }
+.divTitleDashb {
+    width: 100%;
+    background-color: rgba(245, 245, 245, 1);
+    padding: 20px;
+    margin-bottom: 20px;
+}

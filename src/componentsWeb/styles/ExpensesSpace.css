@@ -1,0 +1,28 @@
+.titleExpenses {
+    margin-right: 20px;
+}
+.bottomText {
+    padding: 20px 0;
+}
+.CountBottom {
+    font-size: 20px;
+    font-weight: 600;
+}
+.TitleBottom {
+    color: rgba(156, 156, 156, 1);
+}
+.benefitsBottom {
+    color: rgba(74, 175, 5, 1);
+    font-size: 12px;
+    font-weight: 600;
+}
+.ant-form-item-control-input-content {
+    width: 93%;
+    display: flex;
+    justify-content: flex-end;
+}
+.ExpensesCard {
+    border: 1px solid #E5E5E5;
+        border-radius: 10px;
+    padding: 0 20px;
+}
