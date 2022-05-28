@@ -4,17 +4,6 @@ Este proyecto consiste en una aplicación responsive, para movil, tablet y pc, q
 
 This project consists of a responsive application, for mobile, tablet and pc, which simulates the spending of a bank customer. These expenses are represented in graphs
 
-## Table of contents
-
-- [¿Porque he escodido esta solucion?/Why have I chosen this solution](#¿porque he escogido esta solucion?)
-- [Comenzando](#Comenzando 🚀 / Starting 🚀)
-   -  [Pre-requisitos / Prerequisites](#Pre-requisitos 📋 / Prerequisites 📋)
-   -  [Instalación / Installation](#Instalación 🔧 / Installation 🔧)
-   -  [Arrancar el proyecto ⚙️ / Starting the project ⚙️](#Arrancar el proyecto ⚙️ / Starting the project ⚙️)
-   -  [Construido con / Built with](#Construido con 🛠️ / Built with 🛠️)
-- [Autores / Authors ](#Autores ✒️ / Authors ✒️)
-- [Gracias / Thanks](#Gracias 🎁 / Thanks 🎁)
-
 ## ¿Porque he escogido esta solucion? / Why have I chosen this solution? 🤔
 He realizado la parte móvil con React Native y la parte Web con ReactJs. He hecho esto, ya que esta es mi primera toma de contacto con React Native, y en mi opinion de principante, he visto que está más limitado a la hora de hacer muchas cosas que ReactJs. Creo que aunque mi solución no es la ideal, ya que React Native tiene react-native-web, debido a las complicaciones del reto, y a su complejidad, he optado por utilizar ReactJs, cambiando el componente que se muestra en el archivo App. 
 
