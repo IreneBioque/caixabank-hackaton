@@ -6,7 +6,7 @@ This project consists of a responsive application, for mobile, tablet and pc, wh
 
 ## Table of contents
 
-- [¿Porque he escodido esta solucion?/Why have I chosen this solution](#¿Porque he escogido esta solucion? / Why have I chosen this solution?)
+- [¿Porque he escodido esta solucion?/Why have I chosen this solution](#¿porque he escogido esta solucion?)
 - [Comenzando](#Comenzando 🚀 / Starting 🚀)
    -  [Pre-requisitos / Prerequisites](#Pre-requisitos 📋 / Prerequisites 📋)
    -  [Instalación / Installation](#Instalación 🔧 / Installation 🔧)
